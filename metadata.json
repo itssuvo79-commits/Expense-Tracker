@@ -1,0 +1,6 @@
+{
+  "name": "ExpenTrack",
+  "description": "Real-time, offline-first personal finance tracker with automated reporting and custom analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
